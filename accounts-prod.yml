@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Community accounts related prod APIs "
+  message: "Welcome to Community accounts related production APIs "
   contactDetails:
     name: "Harsha - Product Owner"
     email: "Harsha@gmail.com"
