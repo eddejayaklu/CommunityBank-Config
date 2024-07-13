@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Commuinty loans related prod APIs "
+  message: "Welcome to Commuinty loans related production APIs "
   contactDetails:
     name: "Rajeev- Product Owner"
     email: "Rajeev@gmail.com"
