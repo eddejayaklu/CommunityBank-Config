@@ -1,5 +1,5 @@
 build:
-  version: "3.2"
+  version: "3.2.1"
 
 accounts:
   message: "Welcome to Community accounts related production APIs "
